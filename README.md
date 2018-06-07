@@ -1,6 +1,6 @@
 # Embedded_Logic_and_Design
-## This repository contains all labs done as a part of the Embedded Logic and Design course. 
-### Instructor : Dr. Sumit Darak
+This repository contains all labs done as a part of the Embedded Logic and Design course. 
+Instructor : Dr. Sumit Darak
 
 ### Lab 1
 1. Design and implement a half-adder (using data ow approach) on the Zedboard.
