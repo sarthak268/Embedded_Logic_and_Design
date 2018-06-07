@@ -1,4 +1,4 @@
-# Embedded_Logic_and_Design
+# Embedded Logic and Design
 #### This repository contains all labs done as a part of the Embedded Logic and Design course. 
 
 #### Instructor : Dr. Sumit Darak
