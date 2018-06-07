@@ -4,7 +4,7 @@
 #### Instructor : Dr. Sumit Darak
 
 ### Lab 1
-1. Design and implement a half-adder (using data ow approach) on the Zedboard.
+1. Design and implement a half-adder (using data flow approach) on the Zedboard.
 2. Using the half-adders designed in step 1, implement a full-adder.
 3. Implement a 4-bit adder/subtractor (adds/subtracts two 4-bit inputs) using the full-adders designed in step
 
